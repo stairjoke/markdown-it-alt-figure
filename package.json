@@ -1,0 +1,26 @@
+{
+  "name": "@rbottomley/markdown-it-figure",
+  "version": "0.2.0",
+  "description": "Markdown It plugin to add Figure elements",
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "main": "index.js",
+  "contributors": [
+    "Sam Richard <snugug@google.com> (https://snugug.com)",
+    "Robert Bottomley <rbottomley@google.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbottomley/markdown-it-figure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rbottomley/markdownit-figure/issues"
+  },
+  "homepage": "https://github.com/rbottomley/markdownit-figure#readme",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "markdown-it": "^10.0.0"
+  }
+}
