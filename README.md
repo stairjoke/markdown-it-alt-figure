@@ -54,3 +54,12 @@ Includes a figure number and alt text for image.
   </figcaption>
 </figure>
 ```
+
+## Changelog
+
+### 1.0.0
+- remove P tag from FIGCAPTION output.
+
+### 0.2.0
+- fork from @chromeos/static-site-scaffold-modules.
+

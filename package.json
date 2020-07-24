@@ -1,6 +1,6 @@
 {
   "name": "@rbottomley/markdown-it-figure",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Markdown It plugin to add Figure elements",
   "keywords": [
     "markdown-it",
@@ -14,6 +14,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rbottomley/markdown-it-figure.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/rbottomley/markdownit-figure/issues"
