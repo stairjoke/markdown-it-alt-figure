@@ -15,9 +15,6 @@
     "type": "git",
     "url": "https://github.com/rbottomley/markdown-it-figure.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "bugs": {
     "url": "https://github.com/rbottomley/markdownit-figure/issues"
   },
