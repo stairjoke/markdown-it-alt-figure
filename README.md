@@ -57,6 +57,9 @@ Includes a figure number and alt text for image.
 
 ## Changelog
 
+### 1.0.1
+- update dependencies.
+
 ### 1.0.0
 - remove P tag from FIGCAPTION output.
 

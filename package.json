@@ -1,6 +1,6 @@
 {
   "name": "@rbottomley/markdown-it-figure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown It plugin to add Figure elements",
   "keywords": [
     "markdown-it",
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/rbottomley/markdownit-figure#readme",
   "license": "Apache-2.0",
   "devDependencies": {
-    "markdown-it": "^10.0.0"
+    "markdown-it": "^11.0.0"
   }
 }
