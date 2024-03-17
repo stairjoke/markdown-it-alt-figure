@@ -45,8 +45,8 @@ function validateStart(src, pos) {
   const startCode = src.charCodeAt(pos);
   const nextCode = src.charCodeAt(pos + 1);
 
-  // Check if starts with #
-  if (startCode !== 0x23 /* # */) return false;
+  // Check if starts with !
+  if (startCode !== 0x21 /* ! */) return false;
 
   if (nextCode === 0x5b /* [ */) return true;
 
@@ -55,7 +55,7 @@ function validateStart(src, pos) {
   return false;
 }
 
-const FIGURE_REGEX = /#(\d+)*\[([a-zA-Z].+)]\([\s]*(.*?)[\s]*(\[.*?\])??[)]/im;
+const FIGURE_REGEX = /!(\d+)*\[([a-zA-Z].+)]\([\s]*(.*?)[\s]*(\[.*?\])??[)]/im;
 
 /**
  *

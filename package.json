@@ -1,7 +1,7 @@
 {
-  "name": "@rbottomley/markdown-it-figure",
+  "name": "@stairjoke/markdown-it-alt-figure",
   "version": "1.0.1",
-  "description": "Markdown It plugin to add Figure elements",
+  "description": "Markdown It plugin to render Figure elements from alt text",
   "keywords": [
     "markdown-it",
     "markdown-it-plugin"
@@ -9,16 +9,13 @@
   "main": "index.js",
   "contributors": [
     "Sam Richard <snugug@google.com> (https://snugug.com)",
-    "Robert Bottomley <rbottomley@google.com>"
+    "Robert Bottomley <rbottomley@google.com>",
+    "Wenzel Massag <wenzel@wenzels.design>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbottomley/markdown-it-figure.git"
+    "url": "https://github.com/stairjoke/markdown-it-alt-figure.git"
   },
-  "bugs": {
-    "url": "https://github.com/rbottomley/markdownit-figure/issues"
-  },
-  "homepage": "https://github.com/rbottomley/markdownit-figure#readme",
   "license": "Apache-2.0",
   "devDependencies": {
     "markdown-it": "^11.0.0"
